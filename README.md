@@ -2,7 +2,13 @@
   <img src="assets/banner.svg" alt="RRC898 — Computer Engineering @ UPV · UAV avionics · software · AI-powered tools" width="100%">
 </p>
 
-Second-year Computer Engineering student at the **Universitat Politècnica de València**. I work on the **avionics** of a fixed-wing UAV team (sensors, autopilot, power, telemetry) and build software on the side, usually pairing with an AI agent and keeping what actually works.
+I'm **Ricardo Roig Constantin**, a second-year Computer Engineering student at the **Universitat Politècnica de València**. I work on the **avionics** of a fixed-wing UAV team (sensors, autopilot, power, telemetry) and build software on the side, usually pairing with an AI agent and keeping what actually works.
+
+<p>
+  <a href="https://rrc-898.github.io"><b>Website</b></a> ·
+  <a href="https://www.linkedin.com/in/ricardo-roig-constantin-04709938a/"><b>LinkedIn</b></a> ·
+  Valencia, Spain
+</p>
 
 ### Aerospace & UAV
 
